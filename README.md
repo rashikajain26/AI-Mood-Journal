@@ -16,7 +16,7 @@ Perfect for tracking emotional wellbeing and spreading positivity.
 2. Run the app:
 
 ## Screenshots
-![MoodMind UI](moodmind_intro.png)
-![MoodMind UI](moodmind_ui.png)
+moodmind_intro.png
+moodmind_ui.png
 
 
