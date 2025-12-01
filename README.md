@@ -19,7 +19,7 @@ Perfect for tracking emotional wellbeing and spreading positivity.
 ![MoodMind UI](moodmind_intro.png.png)
 ![MoodMind UI](moodmind_ui.png.png)
 ## Demo
-![Demo](demo mood mind.gif.mp4)
+![MoodMind demo](demo mood mind.gif.mp4)
 
 
 
