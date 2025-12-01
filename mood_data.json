@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-11-16",
+    "text": "it was okay",
+    "mood": "neutral"
+  },
+  {
+    "timestamp": "2025-11-16",
+    "text": "it was okay\nit was good",
+    "mood": "happy"
+  },
+  {
+    "timestamp": "2025-11-16T08:21:47.661650",
+    "text": "im feeling depressed.",
+    "mood": "sad",
+    "confidence": 0.7
+  },
+  {
+    "timestamp": "2025-11-27T07:54:14.884363",
+    "text": "sad",
+    "mood": "sad",
+    "confidence": 0.7
+  }
+]
