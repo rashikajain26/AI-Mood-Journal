@@ -1,4 +1,4 @@
-# AI-Mood-Journal
+#Mood Mind - AI-Mood-Journal
 
 MoodMind is an AI-powered mood journaling app with a sleek UI.  
 Users enter their **mood** and **thoughts**, and the app analyzes them to provide a **positive, uplifting quote**.  
