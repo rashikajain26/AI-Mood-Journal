@@ -15,6 +15,7 @@ Perfect for tracking emotional wellbeing and spreading positivity.
 1. Make sure you have Python installed.
 2. Run the app:
 
+
 ## Screenshots
 ![MoodMind UI](moodmind_intro.png.png)
 ![MoodMind UI](moodmind_ui.png.png)
